@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: darkviolet;
+    font-family: 'Comfortaa', sans-serif;
+}
+  .search {
+  width: 160px;
+      border-radius: 5px 0px 0px 5px;
+      border-right: none;
+}
+.test-btn {
+    border-left: none;
+      border-radius: 0 5px 5px 0;
+      cursor: pointer;
+      background-color: gray;
+      transition-duration: 0.4s;
+}
+.test-btn:hover {
+  background-color: black;
+  color: white;
+  transition-duration: 0.4s;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    border-radius: 5px;
+}
+button, input {
+      background-color: white;
+    border-color: black;
+    border: 2px solid black;
+    padding: 10px 10px;
+    transition-duration: 0.4s;
+}
+button:hover {
+  transition-duration: 0.4s;
+  
+}
+.bruh:hover {
+  background-color: black;
+  color: white;
+  transition-duration: 0.4s;
+}
+.btn {
+      cursor: pointer;
+      background-color: white;
+      transition-duration: 0.4s;
+}
+.btn:hover {
+  background-color: black;
+  color: white;
+  transition-duration: 0.4s;
+
+}
+    
+  }
